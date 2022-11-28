@@ -1,0 +1,30 @@
+h1{
+font-size: 45px;
+text-align: center;
+color: #2f5cbd;
+border : dashed white;
+}
+
+h2{
+    font-size: 30px;
+    text-align: center;
+    color: #2f5cbd;
+    }
+
+p{
+font-size: 15px;
+text-align: center;
+font-family: Helvetica, sans-serif;
+color: aliceblue
+}
+
+p1{
+font-size: 15px;
+text-align: left;
+font-family: 'Times New Roman', Times, serif;
+color: aliceblue;
+}
+
+body {
+background-color: #000000;
+}
